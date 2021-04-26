@@ -4,7 +4,9 @@
 
 Confira o [Checklist do Iniciante clicando aqui](https://github.com/gitflai/Semana-do-Iniciante-em-Data-Science/blob/main/Checklist%20do%20Iniciante%20em%20Data%20Science.pdf).
 
-Os projetos gravados estão nos seguintes links
+Ao longo do evento, vamos atualizando essa página com os demais conteúdos. Fique de olho!
+
+Os projetos gravados estão nos seguintes links:
 
 1 - Seu Primeiro Projeto em DS
 https://youtu.be/3rwE5nXrMSM

@@ -13,7 +13,7 @@ https://youtu.be/3rwE5nXrMSM
 https://youtu.be/zbyAQhsa0hQ
 
 3 - Machine Learning para previsões de custos
-https://www.youtube.com/watch?v=2warwC4AjT0
+https://www.youtube.com/watch?v=YTXLZnP6iyI
 
 4 - Simulando uma copa de futebol no Python 
 https://youtu.be/IIpSxKZeREE

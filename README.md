@@ -18,6 +18,7 @@ https://github.com/ricardorocha86/Python-para-Iniciantes/blob/main/Projeto_Album
 
 *Conjunto de dados* \
 https://github.com/gitflai/Semana-do-Iniciante-em-Data-Science/blob/main/dados-futebol-olimpiada.csv
+
 ---
 
 ### Aula BÔNUS #1 - Seu primeiro projeto em Data Science - Visualização de Dados | Barras Animadas

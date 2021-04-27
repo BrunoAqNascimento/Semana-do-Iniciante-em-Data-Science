@@ -18,11 +18,11 @@ https://youtu.be/idwz1MjUDQE
 ### Aula BÔNUS #1 - Seu primeiro projeto em Data Science - Visualização de Dados | Barras Animadas
 https://youtu.be/3rwE5nXrMSM
 
-Links mencionados:
-*Dados do COVID-19 no Brasil*
+Links mencionados: \
+*Dados do COVID-19 no Brasil* \
 https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/deaths-new.csv
 
-*Dados de COVID-19 no mundo*
+*Dados de COVID-19 no mundo* \
 https://github.com/CSSEGISandData/COVID-19
 
 

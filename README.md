@@ -1,6 +1,6 @@
 # **Semana do Iniciante em Data Science**
 
-## **Repositório de materiais da Semana do Iniciante em Data Science**
+Repositório de materiais da Semana do Iniciante em Data Science
 
 ### :white_check_mark: Acesse o [CHECKLIST DO INICIANTE](https://github.com/gitflai/Semana-do-Iniciante-em-Data-Science/blob/main/Checklist%20do%20Iniciante%20em%20Data%20Science.pdf).
 

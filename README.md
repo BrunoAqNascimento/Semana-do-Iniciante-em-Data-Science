@@ -10,7 +10,7 @@
 
 ---
 
-### Aula BÔNUS #0 - Python para Iniciantes - Do Zero ao Primeiro Projeto (Álbum de Figurinhas)!\
+### :star: Aula BÔNUS #0 - Python para Iniciantes - Do Zero ao Primeiro Projeto (Álbum de Figurinhas)!\
 https://youtu.be/idwz1MjUDQE
 
 *Script/Notebook* \

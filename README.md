@@ -10,7 +10,7 @@ Repositório de materiais da Semana do Iniciante em Data Science
 
 ---
 
-### :star: Aula BÔNUS #0 - Python para Iniciantes - Do Zero ao Primeiro Projeto (Álbum de Figurinhas)!\
+### :star: Aula BÔNUS #0 - Python para Iniciantes - Do Zero ao Primeiro Projeto (Álbum de Figurinhas)!
 https://youtu.be/idwz1MjUDQE
 
 *Script/Notebook* \
@@ -42,7 +42,7 @@ https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-di
 
 ---
 
-### :star: Aula BÔNUS #3 - Machine Learning para previsões de custos \
+### :star: Aula BÔNUS #3 - Machine Learning para previsões de custos 
 https://www.youtube.com/watch?v=YTXLZnP6iyI
 
 *Conjunto de dados* \
@@ -50,7 +50,7 @@ https://www.kaggle.com/mirichoi0218/insurance
 
 ---
 
-### :star: Aula BÔNUS #4  - Simulando a copa de futebol no Python \
+### :star: Aula BÔNUS #4  - Simulando a copa de futebol no Python 
 https://youtu.be/IIpSxKZeREE
 
 *Script/Notebook* \

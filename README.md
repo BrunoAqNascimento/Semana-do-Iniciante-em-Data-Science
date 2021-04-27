@@ -36,8 +36,8 @@ https://github.com/CSSEGISandData/COVID-19
 ### :star: Aula BÔNUS #2 - Do zero a sua primeira Dashboard de negócios
 https://youtu.be/zbyAQhsa0hQ
 
-Links mencionados:
-*Conjunto de dados*
+Links mencionados:\
+*Conjunto de dados*\
 https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-diarios
 
 ---

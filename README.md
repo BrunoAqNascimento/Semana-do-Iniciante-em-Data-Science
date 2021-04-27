@@ -10,10 +10,12 @@ Ao longo do evento, vamos atualizando essa página com os demais conteúdos. Fiq
 
 ---
 
-## Os projetos gravados estão nos seguintes links:
+## **Os conteúdos gravados estão nos seguintes links:**
 
-0 - Python para Iniciantes - Do Zero ao Primeiro Projeto (Álbum de Figurinhas)!
+### Aula BÔNUS #0 - Python para Iniciantes - Do Zero ao Primeiro Projeto (Álbum de Figurinhas)!\
 https://youtu.be/idwz1MjUDQE
+
+---
 
 ### Aula BÔNUS #1 - Seu primeiro projeto em Data Science - Visualização de Dados | Barras Animadas
 https://youtu.be/3rwE5nXrMSM
@@ -25,7 +27,7 @@ https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/deaths-new.cs
 *Dados de COVID-19 no mundo* \
 https://github.com/CSSEGISandData/COVID-19
 
-
+---
 
 ### Aula BÔNUS #2 - Do zero a sua primeira Dashboard de negócios
 https://youtu.be/zbyAQhsa0hQ
@@ -34,14 +36,18 @@ Links mencionados:
 *Conjunto de dados*
 https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-diarios
 
-### Aula BÔNUS #3 - Machine Learning para previsões de custos
+---
+
+### Aula BÔNUS #3 - Machine Learning para previsões de custos \
 https://www.youtube.com/watch?v=YTXLZnP6iyI
 
-*Conjunto de dados*
+*Conjunto de dados* \
 https://www.kaggle.com/mirichoi0218/insurance
 
-### Aula BÔNUS #4  - Simulando a copa de futebol no Python
+---
+
+### Aula BÔNUS #4  - Simulando a copa de futebol no Python \
 https://youtu.be/IIpSxKZeREE
 
-*Notebook*
+*Script/Notebook* \
 https://github.com/ricardorocha86/Python-para-Iniciantes/blob/main/Projeto_%C3%81lbum_de_Figurinhas.ipynb

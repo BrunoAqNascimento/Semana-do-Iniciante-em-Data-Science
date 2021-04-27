@@ -8,6 +8,9 @@ Ao longo do evento, vamos atualizando essa página com os demais conteúdos. Fiq
 
 Os projetos gravados estão nos seguintes links:
 
+Esquenta SIDS | Python para Iniciantes - Do Zero ao Primeiro Projeto (Álbum de Figurinhas)!
+https://youtu.be/idwz1MjUDQE
+
 1 - Seu Primeiro Projeto em DS
 https://youtu.be/3rwE5nXrMSM
 
@@ -19,3 +22,5 @@ https://www.youtube.com/watch?v=YTXLZnP6iyI
 
 4 - Simulando uma copa de futebol no Python 
 https://youtu.be/IIpSxKZeREE
+
+

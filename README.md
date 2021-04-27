@@ -15,16 +15,33 @@ Ao longo do evento, vamos atualizando essa página com os demais conteúdos. Fiq
 0 - Python para Iniciantes - Do Zero ao Primeiro Projeto (Álbum de Figurinhas)!
 https://youtu.be/idwz1MjUDQE
 
-1 - Seu Primeiro Projeto em DS
+### Aula BÔNUS #1 - Seu primeiro projeto em Data Science - Visualização de Dados | Barras Animadas
 https://youtu.be/3rwE5nXrMSM
 
-2 - Do zero a sua primeira dashboard de negócios
+Links mencionados:
+*Dados do COVID-19 no Brasil*
+https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/deaths-new.csv
+
+*Dados de COVID-19 no mundo*
+https://github.com/CSSEGISandData/COVID-19
+
+
+
+### Aula BÔNUS #2 - Do zero a sua primeira Dashboard de negócios
 https://youtu.be/zbyAQhsa0hQ
 
-3 - Machine Learning para previsões de custos
+Links mencionados:
+*Conjunto de dados*
+https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-diarios
+
+### Aula BÔNUS #3 - Machine Learning para previsões de custos
 https://www.youtube.com/watch?v=YTXLZnP6iyI
 
-4 - Simulando uma copa de futebol no Python 
+*Conjunto de dados*
+https://www.kaggle.com/mirichoi0218/insurance
+
+### Aula BÔNUS #4  - Simulando a copa de futebol no Python
 https://youtu.be/IIpSxKZeREE
 
-
+*Notebook*
+https://github.com/ricardorocha86/Python-para-Iniciantes/blob/main/Projeto_%C3%81lbum_de_Figurinhas.ipynb

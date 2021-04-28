@@ -43,7 +43,7 @@ https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-di
 ---
 
 ### :star: Aula BÔNUS #3 - Machine Learning para previsões de custos 
-https://www.youtube.com/watch?v=YTXLZnP6iyI
+https://youtu.be/6JKWXtC4v3o
 
 *Conjunto de dados* \
 https://www.kaggle.com/mirichoi0218/insurance
@@ -51,7 +51,7 @@ https://www.kaggle.com/mirichoi0218/insurance
 ---
 
 ### :star: Aula BÔNUS #4  - Simulando a copa de futebol no Python 
-https://youtu.be/IIpSxKZeREE
+https://youtu.be/uzMupNTNW8o
 
 *Script/Notebook* \
 https://github.com/ricardorocha86/Python-para-Iniciantes/blob/main/Projeto_Album_de_Figurinhas.ipynb

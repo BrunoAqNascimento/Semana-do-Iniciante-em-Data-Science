@@ -34,7 +34,7 @@ https://github.com/CSSEGISandData/COVID-19
 ---
 
 ### :star: Aula BÔNUS #2 - Do zero a sua primeira Dashboard de negócios
-https://youtu.be/zbyAQhsa0hQ
+https://youtu.be/5aZrWSE6-IM
 
 Links mencionados:\
 *Conjunto de dados*\

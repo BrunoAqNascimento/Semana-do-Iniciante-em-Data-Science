@@ -19,9 +19,6 @@ https://youtu.be/idwz1MjUDQE
 *Script/Notebook* \
 https://github.com/ricardorocha86/Python-para-Iniciantes/blob/main/Projeto_Album_de_Figurinhas.ipynb
 
-*Conjunto de dados* \
-https://github.com/gitflai/Semana-do-Iniciante-em-Data-Science/blob/main/dados-futebol-olimpiada.csv
-
 ---
 
 ### :star: Aula BÔNUS #1 - Seu primeiro projeto em Data Science - Visualização de Dados | Barras Animadas
@@ -56,8 +53,11 @@ https://www.kaggle.com/mirichoi0218/insurance
 ### :star: Aula BÔNUS #4  - Simulando a copa de futebol no Python 
 https://youtu.be/uzMupNTNW8o
 
+*Conjunto de dados* \
+https://github.com/gitflai/Semana-do-Iniciante-em-Data-Science/blob/main/dados-futebol-olimpiada.csv
+
 *Script/Notebook* \
-https://github.com/ricardorocha86/Python-para-Iniciantes/blob/main/Projeto_Album_de_Figurinhas.ipynb
+https://github.com/ricardorocha86/Python-para-Iniciantes/blob/main/Simulacao_da_Copa_de_Futebol_das_Olimpiadas.ipynb
 
 ---
 

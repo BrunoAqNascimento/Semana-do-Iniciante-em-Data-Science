@@ -6,7 +6,7 @@ Repositório de materiais da Semana do Iniciante em Data Science
 ### :white_check_mark: Aula 1: https://www.youtube.com/watch?v=HIkZSf1pQNc&t ([Slides](https://github.com/gitflai/Semana-do-Iniciante-em-Data-Science/blob/main/LIVE%201%20-%20Semana%20do%20Iniciante%20em%20DS%20abril%202021.pdf))
 ### :white_check_mark: Aula 2: https://www.youtube.com/watch?v=wJZXrHJpQwM ([Slides](https://github.com/gitflai/Semana-do-Iniciante-em-Data-Science/blob/main/LIVE%202%20-%20Semana%20do%20Iniciante%20em%20DS%20abril%202021.pdf))
 
-[Dicas de Escritas de Projetos em Data Science](https://www.flai.com.br/ricardo/dicas-para-escrita-de-cases-em-data-science/)
+### :white_check_mark: [Dicas de Escritas de Projetos em Data Science](https://www.flai.com.br/ricardo/dicas-para-escrita-de-cases-em-data-science/)
 ---
 
 ## **OS CONTEÚDOS BÔNUS ESTÃO NOS SEGUINTES LINKS:**
